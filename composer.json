@@ -1,0 +1,14 @@
+{
+    "name": "danie/rosto",
+    "autoload": {
+        "psr-4": {
+            "Danie\\Rosto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dqniel"
+        }
+    ],
+    "require": {}
+}
